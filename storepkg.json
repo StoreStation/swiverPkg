@@ -7,7 +7,7 @@
   "tag": "tool",
   "link": "https://github.com/catmagicspell/swiver",
   "version": "1.0",
-  "image": "githubusercontent:StoreStation/swiverPkg/refs/heads/main/icon.jpg",
+  "image": "githubusercontent:StoreStation/swiverPkg/refs/heads/main/preview.jpg",
   "download": {
     "remote": "github:catmagicspell/swiver/releases/download/1.0/swiver.zip",
     "compressed": true,
